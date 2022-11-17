@@ -7,7 +7,7 @@
 }
 
 .containerItems {
-  --auto-grid-min-size: 16rem;
+  --auto-grid-min-size: 20rem;
   display: grid;
   grid-template-columns: repeat(
     auto-fill,

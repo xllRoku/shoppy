@@ -4,8 +4,16 @@
   box-sizing: border-box;
 }
 
+html {
+  font-size: 62.5%;
+  font-family: "Quicksand", sans-serif;
+}
+
 body {
   background-color: #f7f4f4;
   font-family: "Quicksand", sans-serif;
-  padding-bottom: 4rem;
+}
+
+.layout {
+  display: flex;
 }
