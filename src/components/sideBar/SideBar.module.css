@@ -39,6 +39,10 @@
   color: var(--dark-bg);
 }
 
+.faCart {
+  color: white;
+}
+
 .mainMenu > .userIcon {
   margin-top: 2rem;
 }

@@ -1,3 +1,24 @@
+:root {
+  /* Colors */
+  --light-orange: #f9a109;
+  --dark-shades: #97969c;
+  --light-blue-shades: #cccccd;
+  --light-blue-bg: #fafafe;
+  --light-blue: #56ccf2;
+  --dark-bg: #80485b;
+  --light-red: #eb5757;
+  --white: #ffffff;
+  --black: #000000;
+
+  /* Font Size */
+  --h1-titulos: 2.6rem;
+  --h2-titulos: 2.4rem;
+  --h3-productos: 1.8rem;
+  --p-parrafos: 1.4rem;
+  --h4-secciones: 1.4rem;
+  --h5-contador: 1.2rem;
+}
+
 * {
   margin: 0;
   padding: 0;
